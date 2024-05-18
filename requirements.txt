@@ -4,3 +4,8 @@ requests
 dnspython
 tgcrypto==1.2.2
 asyncio
+motor
+apscheduler
+psutil
+python-dotenv==1.0.0
+heroku3
