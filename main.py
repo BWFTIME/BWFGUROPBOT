@@ -132,11 +132,11 @@ async def restart(client, m: Message):
         accha = await m.reply_text(
                         text = f"{g}")
         await asyncio.sleep(1)
-        await accha.edit("::<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a>")
-        await asyncio.sleep(3)
-        await accha.edit(":<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> ")
-        await asyncio.sleep(6)
-        await accha.edit(":<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a>")
+        await accha.edit("━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴜʟᴛʀᴀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    :<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> \n┣👑 ᴅᴍ ᴛᴏ ᴍʏ <a href=\"https://t.me/L2R_KING\">ᴏᴡɴᴇʀ</a>...\n━━━━━━━━━━━━━━━━━━━━━━━━")
+        await asyncio.sleep(0.70)
+        await accha.edit("━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴜʟᴛʀᴀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    :<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> \n┣👑 ᴅᴍ ᴛᴏ ᴍʏ <a href=\"https://t.me/L2R_KING\">ᴏᴡɴᴇʀ</a>...\n━━━━━━━━━━━━━━━━━━━━━━━━")
+        await asyncio.sleep(0.50)
+        await accha.edit("━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴜʟᴛʀᴀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    :<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> \n┣👑 ᴅᴍ ᴛᴏ ᴍʏ <a href=\"https://t.me/L2R_KING\">ᴏᴡɴᴇʀ</a>...\n━━━━━━━━━━━━━━━━━━━━━━━━")
         await asyncio.sleep(0.5)
         await accha.delete()
         umm = await m.reply_sticker(
