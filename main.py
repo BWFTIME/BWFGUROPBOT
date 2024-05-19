@@ -132,11 +132,11 @@ async def restart(client, m: Message):
         accha = await m.reply_text(
                         text = f"{g}")
         await asyncio.sleep(1)
-        await accha.edit("::<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a>  [🔊ᴏɴ♦️ᴏғғ🔇]")
+        await accha.edit("::<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a>")
         await asyncio.sleep(3)
         await accha.edit(":<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> ")
         await asyncio.sleep(6)
-        await accha.edit("💨𝗚𝗥𝗢𝗨𝗣 𝗝𝗢𝗜𝗡 𝗞𝗥 𝗟𝗢 🌷°‌⁪༎꯭ࠫ𝆺𝅥•๋⸙‌ٖٖٖٖٖٖٜٖٖ 💌 🍷 url=f"https://t.me/{BOT_USERNAME}?startgroup=true", 🍷💨𝗣𝗟𝗦 𝗜𝗡𝗧𝗘𝗭𝗔𝗥 𝗞𝗔𝗥 𝗥𝗛𝗜 𝗛𝗨 🍒🥀✨")
+        await accha.edit(":<a href=\"https://t.me/BWF_K_WORLD\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a>")
         await asyncio.sleep(0.5)
         await accha.delete()
         umm = await m.reply_sticker(
