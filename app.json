@@ -1,8 +1,9 @@
 {
     "name": "chatbot",    
+    "logo": "https://telegra.ph/file/b6e5a150dd2ee7dc820da.jpg",
     "env": {
         "BOT_TOKEN": {
-            "description": "telegram bot token here",
+            "description": "👻telegram bot token here❣️",
             "required": true
         
         }
